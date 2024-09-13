@@ -11,6 +11,7 @@
 <div align="center">
  
 🔭 I’m currently working on **My-PetShop**
+
 🌱 I’m currently learning **Docker, PostgreSQL, Stripe API**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
