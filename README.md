@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 I’m currently working on **My-PetShop**
+🔭 I’m currently working on **My-PetShop, README-Profile**
 
 🌱 I’m currently learning **Docker, PostgreSQL, Stripe API**
 
