@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=anibalfuentesrod&color=blue" alt="anibalfuentesrod" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anibal+Fuentes!;&color=orange" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋🏽;+I'm+Anibal+Fuentes!;&color=E40000" />
 </h1>
 
 <h3 align="center">A passionate software developer from Puerto Rico 🇵🇷</h3>
@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/anibal-fuentes-b75443315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="images/resume.png" target="_blank">
+  <a href="images/resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Resume" />
   </a>
 </div>
