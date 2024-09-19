@@ -12,7 +12,7 @@
  
 🔭 I’m currently working on **My-PetShop**
 
-🌱 I’m currently learning **Docker, PostgreSQL, Stripe API**
+🌱 I’m currently learning **Docker, Django, PostgreSQL, Stripe API**
 
 </div>
  
