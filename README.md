@@ -23,8 +23,8 @@
   <a href="https://www.linkedin.com/in/anibal-fuentes-b75443315/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="YOUR_RESUME_FILE_LINK_HERE" target="_blank">
-    <img src="images/resume_image.png" alt="Resume" width="200" />
+  <a href="images/resume.png" target="_blank"> <!-- Link to the resume image file -->
+    <img src="images/resume.png" alt="Resume" width="200" />
   </a>
 </div>
 
